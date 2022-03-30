@@ -28,8 +28,8 @@ Tested on macOS Monterey 12.3!
 
 Specs: 
 
-Intel Core i5-8250U Quad Core KabyLake Refresh CPU
-16GB DDR4 RAM (upgraded on my machine)
-Intel Wireless 8265 + Bluetooth
-UHD 620 + GTX 1050 (disabled by SSDT, no need for -wegnoegpu boot-arg)
-Elan touchpad
+* Intel Core i5-8250U Quad Core KabyLake Refresh CPU
+* 16GB DDR4 RAM (upgraded on my machine)
+* Intel Wireless 8265 + Bluetooth
+* UHD 620 + GTX 1050 (disabled by SSDT, no need for -wegnoegpu boot-arg)
+* Elan touchpad
