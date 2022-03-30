@@ -5,22 +5,22 @@ EFI configuration for running macOS Monterey using OpenCore
 This configuration is still WIP, therefore, some functions may not work properly. 
 
 What works?
-*Boot
-*CPU Management
-*Audio using alcid=25
-*Integrated mic
-*Integrated Webcam
-*FULL QE/CI acceleration
-*WiFi using itlwm
-*Bluetooth using IntelBTFirmware + BluetoolFixup
-*Brightness (*)
-*overall usage
-*USB ports (mapped)
+* Boot
+* CPU Management
+* Audio using alcid=25
+* Integrated mic
+* Integrated Webcam
+* FULL QE/CI acceleration
+* WiFi using itlwm
+* Bluetooth using IntelBTFirmware + BluetoolFixup
+* Brightness (*)
+* overall usage
+* USB ports (mapped)
 
 What does not work?
-*Sleep (no Lidsleep, Lid-Wake etc.)
-*Touchpad may not work too (will fix that later)
-*more..
+* Sleep (no Lidsleep, Lid-Wake etc.)
+* Touchpad may not work too (will fix that later)
+* more..
 
 Feel free to contribute to this project. 
 
