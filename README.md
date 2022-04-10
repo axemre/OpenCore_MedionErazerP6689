@@ -12,14 +12,14 @@ What works?
 * Integrated Webcam
 * FULL QE/CI acceleration
 * WiFi using itlwm
+* Touchpad with all gestures
 * Bluetooth using IntelBTFirmware + BluetoolFixup
 * Brightness (*)
 * overall usage
 * USB ports (mapped)
 
 What does not work?
-* Sleep (no Lidsleep, Lid-Wake etc.)
-* Touchpad may not work too (will fix that later)
+* Battery indicator not updating properly (may be related to my battery..)
 * more..
 
 Feel free to contribute to this project. 
